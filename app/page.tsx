@@ -12,9 +12,9 @@ export default function Home() {
       />
       <div className="space-y-5 col-span-2">
         <p>
-          My name is Tara Yazdian Anari, and I am currently pursuing a master’s
+          My name is Tara Yazdian Anari, and I am currently pursuing a master
           degree in human-Computer Interaction at Utrecht University. I hold a
-          Bachelor's degree in Computer Engineering.
+          Bachelor degree in Computer Engineering.
         </p>
         <p>
           My interests lie at the intersection of UX research, UI design, and
